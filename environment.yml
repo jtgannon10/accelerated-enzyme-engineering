@@ -1,6 +1,7 @@
 name: your_environment_name
 channels:
   - conda-forge
+  - odsp-test
   - defaults
 dependencies:
   - python=3.11
