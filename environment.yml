@@ -1,6 +1,7 @@
 name: protein-engineering
 channels:
   - defaults
+  - conda-forge
 dependencies:
   - alabaster=0.7.12=pyhd3eb1b0_0
   - anyio=4.8.0=py39haa95532_0
